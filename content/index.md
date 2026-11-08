@@ -8,7 +8,7 @@ description: 网络安全专家的成长笔记
 
 ## 内容分类
 
-- [[CBK/index| CBK]]
+- [[CBK/index|CBK]]
 - [[CTF/index|CTF]]
 - [[content/IT_Security/index|IT_Security]]
 - [[content/OT_Security/index|OT_Security]]
