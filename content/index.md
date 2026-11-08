@@ -20,3 +20,5 @@ description: 网络安全专家的成长笔记
 ## 最近整理方向 
 - NICE中的Cybersecurity Architect的TKS(Tasks,Knowledge和Skills)
 - 过去接触的网络安全产品的使用心得
+
+还想做一下笔记模板,能把笔记的创建时间和更新时间都放进去,好像Templater插件可以时间,有空研究一下.
