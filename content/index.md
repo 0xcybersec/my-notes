@@ -12,6 +12,9 @@ description: 网络安全专家的成长笔记
 - [[CTF/index|CTF]]
 - [[content/IT_Security/index|IT_Security]]
 - [[content/OT_Security/index|OT_Security]]
+- [[content/Frameworks/index|Frameworks]]
+- [[content/Security_Solutions/index|Security_Solutions]]
+- 
 
 
 ## 最近整理方向 
