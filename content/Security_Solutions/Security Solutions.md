@@ -14,4 +14,11 @@
 	- Lanscope
 	- Skysea
 	- Intune
+- Vul
+	- Qualys
+- Other
+	- Zabbix
+- BI
+	- Tableau
+	- Power BI
 
