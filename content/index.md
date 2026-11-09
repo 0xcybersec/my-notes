@@ -4,7 +4,7 @@ description: 网络安全专家的成长笔记
 ---
 # 我的网络安全成长笔记
 
-这里是我用Obisidan+Quartzv5+GithubPages搭建的公开技术笔记,主要记录网络安全领域的攻与防,技能实现与工作心得.
+这里是我用Obisidan+Quartz5+GithubPages搭建的公开技术笔记,主要记录网络安全领域的攻与防,技能实现与工作心得.
 
 ## 内容分类
 
