@@ -1,0 +1,40 @@
+AWS有200多种服务,我想按照分类将它们梳理一下..
+[AWS services by category - Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html.md)
+
+主要的服务有以下几种:
+[AWS services by category - Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html.md)
+
+| ![AWS Analytics category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/analytics-icon.jpg)[Analytics](analytics.md)                                                                         | ![AWS application integration category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/application-integration-icon.jpg)[Application integration](application-integration.md) | ![AWS Blockchain category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/blockchain-icon.jpg)[Blockchain](blockchain.md)                                                 | ![AWS Business Applications category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/business-applications-icon.jpg)[Business applications](business-applications.md)                       | ![AWS Cloud Financial Management category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/cost-management-icon.jpg)[Cloud Financial Management](aws-cost-management.md) | ![AWS Compute Services category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/compute-icon.jpg)[Compute](compute-services.md)                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Customer Enablement category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/customer-enablement-icon.png)[Customer enablement](customer-enablement.md)                                     | ![AWS Containers category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/containers-icon.jpg)[Containers](containers.md)                                                     | ![AWS Database category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/database-icon.jpg)[Databases](database.md)                                                        | ![AWS Developer Tools category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/dev-tools-icon.jpg)[Developer tools](developer-tools.md)                                                     | ![AWS End User Computing category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/end-user-computing-icon.jpg)[End user computing](end-user-computing.md)               | ![AWS Front-end web and mobile category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/front-end-web-and-mobile-icon.jpg)[Front-end web and mobile](mobile-services.md) |
+| ![AWS Game Tech category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/game-tech-icon.jpg)[Game tech](game-tech.md)                                                                         | ![AWS Internet of Things (IoT) category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/iot-icon.jpg)[Internet of Things (IoT)](internet-of-things-services.md)               | ![AWS Machine Learning category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/ml-icon.jpg)[Machine Learning (ML) and Artificial Intelligence (AI)](machine-learning.md) | ![AWS Management and Governance category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/management-governance-icon.jpg)[Management and governance](management-governance.md)               | ![AWSMedia category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/media-services-icon.jpg)[Media](media-services.md)                                                  | ![AWS Migration and Transfer category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/migration-transfer-icon.jpg)[Migration and transfer](migration-services.md)        |
+| ![AWS Networking and Content Delivery category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/networking-content-delivery-icon.jpg)[Networking and content delivery](networking-services.md) | ![AWS Quantum Technologies category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/quantum-technologies-icon.jpg)[Quantum technologies](quantum-technologies.md)             | ![AWS Satellite category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/satellite-icon.jpg)[Satellite](satellite.md)                                                     | ![AWSSecurity, Identity, and Compliance category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/security-id-compliance-icon.jpg)[Security, identity, and compliance](security-services.md) | ![AWS Storage category icon](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/images/storage-icon.jpg)[Storage](storage-services.md)                                                  |                                                                                                                                                                                                   |
+
+而Security相关的服务如下:
+[AWS Security, Identity, and Compliance category iconSecurity, identity, and compliance - Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-services.html.md)
+![[Pasted image 20261109233141.png]]
+
+**Topics**
++ [Amazon Cognito](amazon-cognito.md.md)
++ [Amazon Detective](amazon-detective.md)
++ [Amazon GuardDuty](amazon-guardduty.md)
++ [Amazon Inspector](amazon-inspector.md)
++ [Amazon Macie](amazon-macie.md)
++ [Amazon Security Lake](amazon-security-lake.md)
++ [Amazon Verified Permissions](amazon-verified-permissions.md)
++ [AWS Artifact](aws-artifact.md)
++ [AWS Audit Manager](aws-audit-manager.md)
++ [AWS Certificate Manager](aws-certificate-manager.md)
++ [AWS CloudHSM](aws-cloudhsm.md)
++ [AWS Directory Service](aws-directory-service.md)
++ [AWS Firewall Manager](aws-firewall-manager.md)
++ [AWS Identity and Access Management](aws-identity-and-access-management.md)
++ [AWS Key Management Service](aws-key-management-service.md)
++ [AWS Network Firewall](aws-network-firewall.md)
++ [AWS Resource Access Manager](aws-resource-access-manager.md)
++ [AWS Secrets Manager](aws-secrets-manager.md)
++ [AWS Security Hub CSPM](aws-security-hub.md)
++ [AWS Shield](aws-shield.md)
++ [AWS IAM Identity Center](aws-single-sign-on.md)
++ [AWS WAF](aws-waf.md)
++ [AWS WAF Captcha](aws-waf-captcha.md)
