@@ -12,7 +12,7 @@ AWS有200多种服务,我想按照分类将它们梳理一下..
 
 而Security相关的服务如下:
 [AWS Security, Identity, and Compliance category iconSecurity, identity, and compliance - Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-services.html.md)
-![[Pasted image 20261109233141.png]]
+![[AWS_Security_Services.png]]
 
 **Topics**
 + [Amazon Cognito](amazon-cognito.md.md)
