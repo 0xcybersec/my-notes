@@ -1,5 +1,6 @@
 我感觉我需要过一遍官方的R82管理员手册
 [sk185039 - Check Point R82.20 Release](https://support.checkpoint.com/results/sk/sk185039)
+[Introduction to Security Management](https://sc1.checkpoint.com/documents/R82.20/WebAdminGuides/EN/CP_R82.20_SecurityManagement_AdminGuide/Content/Topics-SECMG/Welcome.htm)
 
 SmartConsole的手册
 [R82 SmartConsole Help](https://sc1.checkpoint.com/documents/R82/SmartConsole_OLH/EN/Topics-OLH/Home-Page.htm)
@@ -19,3 +20,14 @@ SmartConsole的安装包
 每次DEMO只有90分钟的时长.
 
 Logs的默认时长选择有以下几种:
+- Last 24 Hours
+- Last Hour
+- Today
+- Yesterday
+- This Week
+- Last 7 Days
+- This Month
+- Last 30 Days
+- All Time
+- Custom
+
