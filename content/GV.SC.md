@@ -1,4 +1,4 @@
-GV.SC:
+**GV.SC:**
 Cyber supply chain risk management processes are identified, established, managed, monitored, and improved by organizational stakeholders.
 
 ## GV.SC-01
@@ -13,4 +13,20 @@ Cybersecurity supply chain risk management is integrated into cybersecurity and 
 Suppliers are known and prioritized by criticality
 
 ## GV.SC-05
-Requirements to address cybersecurity risks in supply chains are e
+Requirements to address cybersecurity risks in supply chains are established, prioritized, and integrated into contracts and other types of agreements with suppliers and other relevant third parties.
+
+## GV.SC-06
+Planning and due diligence are performed to reduce risks before entering into formal supplier or other third-party relationships.
+
+## GV.SC-07
+The risks posed by a supplier, their products and services, and other third parties are understood, recorded, prioritized, assessed responded to, and monitored over the course of the relationship.
+
+## GV.SC-08
+Relevant suppliers and other third parties are included in incident planning, response, and recovery activities.
+
+## GV.SC-09
+Supply chain security practices are integrated into cybersecurity and enterprise risk management programs, and their performance is monitored throughout the technology product and service life cycle.
+
+## GV.SC-10
+Cybersecurity supply chain risk management plans include provisions for activities that occur after the conclusion of a partnership or service management
+

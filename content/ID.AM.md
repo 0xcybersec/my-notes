@@ -1,0 +1,23 @@
+Asset Management (ID.AM): 
+Assets (e.g., data, hardware, software, systems, facilities, services, people) that enable the organization to achieve business purposes are identified and managed consistent with their relative importance to organizational objectives and the organization’s risk strategy 
+
+## ID.AM-01
+Inventories of hardware managed by the organization are maintained 
+
+## ID.AM-02
+Inventories of software, services, and systems managed by the organization are maintained 
+
+## ID.AM-03
+Representations of the organization’s authorized network communication  and internal and external network data flows are maintained 
+
+## ID.AM-04
+Inventories of services provided by suppliers are maintained 
+
+## ID.AM-05
+Assets are prioritized based on classification, criticality, resources, and impact on the mission 
+
+## ID.AM-07
+Inventories of data and corresponding metadata for designated data types are maintained 
+
+## ID.AM-08
+Systems, hardware, software, services, and data are managed throughout their life cycles 
