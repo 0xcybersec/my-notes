@@ -2,16 +2,16 @@ Technology Infrastructure Resilience (PR.IR)
 Security architectures are managed with the organization’s risk strategy to protect asset confidentiality, integrity, and availability, and organizational resilience 
 
 ## PR.IR-01
-Networks and environments are protected from unauthorized logical access and usage 
+==🟠Networks and environments are protected from unauthorized logical access and usage ==
 
 ## PR.IR-02
-The organization’s technology assets are protected from environmental threats 
+==🟠The organization’s technology assets are protected from environmental threats ==
 
 ## PR.IR-03
-Mechanisms are implemented to achieve resilience requirements in normal and adverse situations 
+==🟠Mechanisms are implemented to achieve resilience requirements in normal and adverse situations ==
 
 ## PR.IR-04
-Adequate resource capacity to ensure availability is maintained 
+==🟠Adequate resource capacity to ensure availability is maintained ==
 
 技術インフラのレジリエンス（PR.IR）：
 セキュリティアーキテクチャが、資産の機密性、完全性、可用性、及び組織のレジリエンスを保護するための組織のリスク戦略とともに管理されている。

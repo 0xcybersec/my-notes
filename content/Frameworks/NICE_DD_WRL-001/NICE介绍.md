@@ -8,11 +8,5 @@ NICE的全称是National Initiative for Cybersecurity Careers and Studies,它里
 
 它还有一个同NIST CSF的Mapping.
 [NICE Framework to CSF Mapping - v2.0.0 to V2 - September 2025.xlsx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.nist.gov%2Fsystem%2Ffiles%2Fdocuments%2F2025%2F11%2F14%2FNICE%2520Framework%2520to%2520CSF%2520Mapping%2520-%2520v2.0.0%2520to%2520V2%2520-%2520September%25202025.xlsx&wdOrigin=BROWSELINK)
-
-
-GV.SC
-ID.AM
-PR.AA
-PR.PS
-PR.IR
-RS.MI
+具体可以参照这里:
+[[CSF Core Function and Category]]

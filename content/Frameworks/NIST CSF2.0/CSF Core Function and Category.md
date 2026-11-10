@@ -7,7 +7,7 @@
 |               | Policy                                                  | [[GV.PO]]           |             |
 |               | Oversight                                               | [[GV.OV]]           |             |
 |               | Cybersecurity Supply Chain Risk Management              | [[GV.SC]]           | Yes         |
-| Identity (ID) | Asset Management                                        | [[ID.AM]]           | Yes         |
+| Identity (ID) | Asset Management                                        | [[ID.AM]]           |             |
 |               | Risk Assessment                                         | [[ID.RA]]           |             |
 |               | Improvement                                             | [[ID.IM]]           |             |
 | Protect (PR)  | Identity Management, Authentication, and Access Control | [[PR.AA]]           | Yes         |
