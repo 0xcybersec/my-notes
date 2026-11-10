@@ -10,6 +10,12 @@ SmartConsole的安装包
 在自己电脑上安装一个,然后体验一下DEMO环境
 ![[Pasted image 20261110140115.png]]
 
-![[Pasted image 20261110135450.png]]
+![[Pasted image 20261110140232.png]]
 
-![[Pasted image 20261110135517.png]]
+![[Pasted image 20261110140621.png]]
+
+![[Pasted image 20261110140727.png]]
+
+每次DEMO只有90分钟的时长.
+
+Logs的默认时长选择有以下几种:
