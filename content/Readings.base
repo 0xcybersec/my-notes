@@ -1,11 +1,4 @@
 views:
   - type: cards
     name: 视图
-    filters:
-      and:
-        - file.folder == "content/Readings"
-    order:
-      - cover
-      - Publish
-    image: note.cover
-    imageFit: contain
+
