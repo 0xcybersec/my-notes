@@ -1,0 +1,3 @@
+Amazon Verified Permissions is a scalable, fine-grained permissions management and authorization service for custom applications you've built. Verified Permissions enables your developers to build secure applications faster by externalizing authorization and centralizing policy management and administration.
+
+Verified Permissions uses Cedar, an open-source policy language and SDK, to define fine-grained permissions for application users. Your authorization model is defined using principal types, resource types, and valid actions, to control who can take what actions on which resources in a given application context. Policy changes are audited so that you can see who made the changes and when.
