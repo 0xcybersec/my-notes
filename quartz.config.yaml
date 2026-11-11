@@ -273,6 +273,11 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: "@quartz-community/bases-page"
+    enabled: true
+    options:
+      linkResolution: shortest
+    order: 50
 layout:
   groups:
     toolbar:
