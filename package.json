@@ -43,7 +43,6 @@
     "@floating-ui/dom": "^1.7.4",
     "@myriaddreamin/rehype-typst": "^0.7.0",
     "@napi-rs/simple-git": "1.1.0",
-<<<<<<< HEAD
     "@quartz-community/alias-redirects": "^1.0.0",
     "@quartz-community/article-title": "^1.0.0",
     "@quartz-community/backlinks": "^1.0.0",
@@ -90,7 +89,6 @@
     "@quartz-community/unlisted-pages": "^1.0.0",
     "@quartz-themes/core": "^2.0.0",
     "@quartz-themes/default": "^1.0.1",
-=======
     "@quartz-community/alias-redirects": "^1.0.3",
     "@quartz-community/article-title": "^1.0.2",
     "@quartz-community/backlinks": "^1.0.3",
@@ -133,7 +131,6 @@
     "@quartz-community/tag-page": "^1.0.5",
     "@quartz-community/unlisted-pages": "^1.2.0",
     "@quartz-themes/core": "^2.0.1",
->>>>>>> 7cfb0796165c848be5438117e9806802123bf676
     "ansi-truncate": "^1.4.0",
     "async-mutex": "^0.5.0",
     "chokidar": "^5.0.0",
