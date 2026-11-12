@@ -2,10 +2,8 @@ views:
   - type: table
     name: Book List
     filters:
-      or:
-        - file.folder == "content/Frameworks/NICE_DD_WRL-001/Tasks (50)"
-        - file.folder == "content/Frameworks/NICE_DD_WRL-001/Skills (48)"
-        - file.folder == "content/Frameworks/NICE_DD_WRL-001/Knowledge (121)"
+      and:
+        - '!note["TKS ID"].isEmpty()'
     order:
       - file.name
       - TKS ID
