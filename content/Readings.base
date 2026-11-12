@@ -17,3 +17,8 @@ views:
       - file.name
       - tags
       - Author
+  - type: table
+    name: "00"
+    groupBy:
+      property: file.folder
+      direction: ASC
