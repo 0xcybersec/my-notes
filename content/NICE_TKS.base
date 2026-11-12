@@ -1,6 +1,6 @@
 views:
   - type: table
-    name: 视图
+    name: Book List
     filters:
       or:
         - file.folder == "content/Frameworks/NICE_DD_WRL-001/Tasks (50)"
