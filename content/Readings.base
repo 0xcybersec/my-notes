@@ -1,6 +1,19 @@
 views:
   - type: cards
-    name: 视图
+    name: Card View
+    filters:
+      and:
+        - file.folder == "content/Readings"
     groupBy:
       property: file.folder
       direction: ASC
+    image: note.Cover
+  - type: table
+    name: Book List
+    filters:
+      and:
+        - file.folder == "content/Readings"
+    order:
+      - file.name
+      - tags
+      - Author
