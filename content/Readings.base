@@ -8,6 +8,8 @@ views:
       property: file.folder
       direction: ASC
     image: note.cover
+    imageAspectRatio: 2
+    cardSize: 220
   - type: table
     name: Book List
     filters:
