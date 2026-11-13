@@ -238,11 +238,12 @@ plugins:
   - source: "@quartz-community/note-properties"
     enabled: true
     options:
-      includeAll: false
+      includeAll: true
       includedProperties:
         - description
         - tags
         - aliases
+	- cover
       excludedProperties: []
       hidePropertiesView: false
     order: 5
