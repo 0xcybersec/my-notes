@@ -243,7 +243,7 @@ plugins:
         - description
         - tags
         - aliases
-	- cover
+        - cover
       excludedProperties: []
       hidePropertiesView: false
     order: 5
