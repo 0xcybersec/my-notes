@@ -8,8 +8,8 @@ views:
       property: file.folder
       direction: ASC
     image: note.Cover
-    imageAspectRatio: 2
-    cardSize: 220
+    imageAspectRatio: 1.2
+    cardSize: 200
   - type: table
     name: Book List
     filters:
@@ -19,3 +19,12 @@ views:
       - file.name
       - tags
       - Author
+  - type: cards
+    name: Test
+    filters:
+      and:
+        - file.inFolder("content/Readings")
+    order:
+      - file.name
+      - Covertest
+    image: note.Covertest
