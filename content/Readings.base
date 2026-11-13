@@ -7,7 +7,7 @@ views:
     groupBy:
       property: file.folder
       direction: ASC
-    image: note.Cover
+    image: note.cover
   - type: table
     name: Book List
     filters:
