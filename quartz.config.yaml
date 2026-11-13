@@ -12,6 +12,8 @@ configuration:
     - private
     - templates
     - .obsidian
+  publishAssetsignorePatterns: referenced
+
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
