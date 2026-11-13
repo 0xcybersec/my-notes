@@ -1,3 +1,3 @@
 ---
-Cover: "[[content/assets/CISSPOSG11.png]]"
+Cover: "[[CISSPOSG11.png]]"
 ---

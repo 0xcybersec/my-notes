@@ -10,6 +10,7 @@ views:
     image: note.Cover
     imageAspectRatio: 1.2
     cardSize: 200
+    imageFit: contain
   - type: table
     name: Book List
     filters:

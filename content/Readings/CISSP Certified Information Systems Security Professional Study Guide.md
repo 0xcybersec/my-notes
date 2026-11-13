@@ -1,11 +1,11 @@
 ---
-Cover: "[[content/assets/CISSPOSG11.png]]"
+Cover: "[[CISSPOSG11.png]]"
 Title: CISSP Certified Information Systems Security Professional Study Guide
 Author: Mike Chapple, James Michael Stewart
 translator: "NULL"
 Publish: 2027-2
 ---
-![[CISSPOSG11.png]]
+
 
 现在CISSP的OSG最新版11会在2027年2月发布，配套的PT练习册第5版也会发布。
 [CISSP Certified Information Systems Security Professional Study Guide, 11th Edition | Wiley](https://www.wiley.com/en-us/shop/test-prep-general/cissp-certified-information-systems-security-professional-study-guide-11th-edition-p-9781394462339)
