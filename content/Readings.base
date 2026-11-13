@@ -3,11 +3,11 @@ views:
     name: Card View
     filters:
       and:
-        - file.inFolder == "Readings"
+        - file.inFolder("content/Readings")
     groupBy:
       property: file.folder
       direction: ASC
-    image: note.cover
+    image: note.Cover
     imageAspectRatio: 2
     cardSize: 220
   - type: table
@@ -19,4 +19,3 @@ views:
       - file.name
       - tags
       - Author
-
