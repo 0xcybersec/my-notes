@@ -3,7 +3,7 @@ views:
     name: Card View
     filters:
       and:
-        - file.folder == "content/Readings"
+        - file.inFolder == "Readings"
     groupBy:
       property: file.folder
       direction: ASC
@@ -17,8 +17,4 @@ views:
       - file.name
       - tags
       - Author
-  - type: table
-    name: "00"
-    groupBy:
-      property: file.folder
-      direction: ASC
+
