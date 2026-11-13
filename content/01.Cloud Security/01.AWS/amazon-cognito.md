@@ -3,3 +3,5 @@ Amazon Cognito lets you add user sign-up, sign-in, and access control to your we
 In addition, Amazon Cognito enables you to save data locally on users’ devices, allowing your applications to work even when the devices are offline. You can then synchronize data across users’ devices so that their app experience remains consistent regardless of the device they use.
 
 With Amazon Cognito, you can focus on creating great app experiences instead of worrying about building, securing, and scaling a solution to handle user management, authentication, and sync across devices.
+
+这个在前公司,同开发的外包商作认证方式设定时,有接触过,就是内部用户使用EntraID,外部用户使用cognito因为他们的邮箱域名各不相同.
