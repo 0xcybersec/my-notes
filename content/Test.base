@@ -1,4 +1,7 @@
 views:
   - type: cards
     name: 视图
+    filters:
+      and:
+        - file.inFolder("content/Glossary")
     image: note.Cover
