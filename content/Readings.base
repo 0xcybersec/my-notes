@@ -1,6 +1,7 @@
 views:
-  - type: table
+  - type: cards
     name: 视图
     filters:
       and:
-        - file.inFolder("content/Readings")
+        - file.inFolder("content/06.Readings")
+    image: note.Cover

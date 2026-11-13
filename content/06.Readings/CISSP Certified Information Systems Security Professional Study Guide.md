@@ -1,5 +1,5 @@
 ---
-Cover: "[[CISSPOSG11.png]]"
+Cover: "[[public/assets/cissposg11.png]]"
 Title: CISSP Certified Information Systems Security Professional Study Guide
 Author: Mike Chapple, James Michael Stewart
 translator: "NULL"

@@ -8,11 +8,13 @@ description: 网络安全专家的成长笔记
 
 ## 内容分类
 
+按照目前的优先级给每个子文件夹编号,依次是:
+- [[01.cloud security]]
 - [[CBK|CBK]]
-- [[CTF/index|CTF]]
+- [[content/08.CTF/index|CTF]]
 - [[IT Security|IT_Security]]
 - [[OT Security|OT_Security]]
-- [[content/Frameworks/index|Frameworks]]
+- [[content/04.Frameworks/index|Frameworks]]
 - [[Security Solutions|Security_Solutions]]
 - 
 
