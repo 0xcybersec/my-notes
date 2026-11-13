@@ -5,13 +5,13 @@ views:
       and:
         - file.inFolder("content/Readings")
     groupBy:
-      property: file.folder
+      property: tags
       direction: ASC
     image: note.Cover
     imageAspectRatio: 1.2
     cardSize: 200
     imageFit: contain
-  - type: table
+  - type: list
     name: Book List
     filters:
       and:
@@ -20,6 +20,7 @@ views:
       - file.name
       - tags
       - Author
+    markers: none
   - type: cards
     name: Test
     filters:
