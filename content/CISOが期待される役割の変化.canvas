@@ -1,14 +1,27 @@
 {
 	"nodes":[
 		{"id":"fff4b8ca201b4ad8","x":-80,"y":-320,"width":250,"height":60,"type":"text","text":"短いパスのITライフサイクルSNSを含む多様なIT環境"},
-		{"id":"3ba43aa4b1a96215","x":134,"y":-256,"width":346,"height":51,"color":"5","type":"text","text":"ビジネス指向のセキュリティ"},
-		{"id":"4c7b298bb131e066","x":-80,"y":-205,"width":427,"height":245,"type":"text","text":"- 経営の一員としてのCISO\n- 情報系+基幹系（ビジネス）\n- 経営戦略に基づいた計画\n- 適切な方針、技術、遵守の実装と運用\n- 緊急対応（CSIRT）の備え\n- 社内外の監査"},
-		{"id":"2c40bad2a5ebf0d1","x":258,"y":-166,"width":250,"height":60,"type":"text","text":"収益への貢献"},
-		{"id":"b173cdf202fead1e","x":-20,"y":200,"width":250,"height":60,"type":"text","text":"完全な防御は不可能と考える侵入を前提とした対策"},
-		{"id":"c973ef84656c8dbb","x":290,"y":182,"width":250,"height":60,"type":"text","text":"特別損失の防止"},
-		{"id":"7d0f8b5820c60920","x":-174,"y":295,"width":250,"height":60,"type":"text","text":"- Cybersecurity Framework\n- CIS Control\n\nAPT"}
+		{"id":"3ba43aa4b1a96215","x":242,"y":-290,"width":346,"height":51,"color":"5","type":"text","text":"ビジネス指向のセキュリティ"},
+		{"id":"2c40bad2a5ebf0d1","x":200,"y":-380,"width":250,"height":60,"type":"text","text":"収益への貢献"},
+		{"id":"2672c80f06c5ecfd","x":-617,"y":-294,"width":250,"height":60,"type":"text","text":"長いスパンのITライフサイクル限定的なIT環境"},
+		{"id":"7b316fd69d986c1c","x":-330,"y":-340,"width":250,"height":50,"type":"text","text":"全社的な取組"},
+		{"id":"c3418db54be08ac7","x":-440,"y":-205,"width":330,"height":277,"type":"text","text":"- GRC\n- データ\n- プライバシー\n- 法律と規定\n- 事業部門との連携\n- 基幹系\n- IoT\n- 医療機器\n- 制御機器"},
+		{"id":"4c7b298bb131e066","x":-110,"y":-205,"width":427,"height":277,"type":"text","text":"- 経営の一員としてのCISO\n- 情報系+基幹系（ビジネス）\n- 経営戦略に基づいた計画\n- 適切な方針、技術、遵守の実装と運用\n- 緊急対応（CSIRT）の備え\n- 社内外の監査"},
+		{"id":"7d0f8b5820c60920","x":-110,"y":72,"width":427,"height":409,"type":"text","text":"- Cybersecurity Framework\n- CIS Control\n\n- APT\n- 犯罪組織\n- 政府機関\n\n- Cloud\n- SNS\n- BYOD\n- DevOPs\n- 自動化\n\n- 境界領域の消失"},
+		{"id":"c973ef84656c8dbb","x":380,"y":185,"width":250,"height":60,"type":"text","text":"特別損失の防止"},
+		{"id":"b173cdf202fead1e","x":242,"y":100,"width":250,"height":60,"type":"text","text":"完全な防御は不可能と考える侵入を前提とした対策"},
+		{"id":"1b43ffe976515f5a","x":-441,"y":72,"width":333,"height":409,"type":"text","text":"- 技術としてのCISO\n- 規制遵守としての対策\n- ビジネスを制限\n- 長いサイクル\n- チェックリストと監査\n- 情報系\n- PC\n- サーバ\n- 境界領域\n- ウィルス\n- 改竄\n- 内部犯行\n- 紛失・盗難\n- Web/メール"},
+		{"id":"b101cebc444f401c","x":-624,"y":447,"width":250,"height":60,"type":"text","text":"コントロール視点のセキュリティ"},
+		{"id":"cf63aa560f597fda","x":-691,"y":277,"width":250,"height":60,"type":"text","text":"担当レベルの取組"}
 	],
 	"edges":[
-		{"id":"1dd4d3c4bbef47a6","fromNode":"fff4b8ca201b4ad8","fromSide":"bottom","toNode":"4c7b298bb131e066","toSide":"top"}
+		{"id":"1dd4d3c4bbef47a6","fromNode":"fff4b8ca201b4ad8","fromSide":"bottom","toNode":"4c7b298bb131e066","toSide":"top"},
+		{"id":"078ce2f6f3f6d91e","fromNode":"b173cdf202fead1e","fromSide":"bottom","toNode":"7d0f8b5820c60920","toSide":"top"},
+		{"id":"b9506188c0559f9d","fromNode":"b173cdf202fead1e","fromSide":"right","toNode":"c973ef84656c8dbb","toSide":"left"},
+		{"id":"03d8a250a442d40a","fromNode":"3ba43aa4b1a96215","fromSide":"top","toNode":"2c40bad2a5ebf0d1","toSide":"bottom"},
+		{"id":"43ec72bf16d49997","fromNode":"2672c80f06c5ecfd","fromSide":"bottom","toNode":"c3418db54be08ac7","toSide":"top"},
+		{"id":"b109300930ea78dc","fromNode":"2672c80f06c5ecfd","fromSide":"right","toNode":"7b316fd69d986c1c","toSide":"bottom"},
+		{"id":"b105aa342b211870","fromNode":"1b43ffe976515f5a","fromSide":"bottom","toNode":"b101cebc444f401c","toSide":"bottom"},
+		{"id":"ed66117463450405","fromNode":"b101cebc444f401c","fromSide":"top","toNode":"cf63aa560f597fda","toSide":"bottom"}
 	]
 }
