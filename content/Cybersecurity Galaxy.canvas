@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"932da3d45e5dc80b","x":0,"y":-200,"width":250,"height":60,"type":"text","text":"Galaxy"},
+		{"id":"47784db3b231b10d","x":-31,"y":-102,"width":250,"height":60,"type":"text","text":"Digital Trust"},
+		{"id":"7d6f6849430aa78a","x":-125,"y":22,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
