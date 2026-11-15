@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"fff4b8ca201b4ad8","x":-80,"y":-320,"width":250,"height":60,"type":"text","text":"短いパスのITライフサイクルSNSを含む多様なIT環境"},
+		{"id":"3ba43aa4b1a96215","x":134,"y":-256,"width":346,"height":51,"color":"5","type":"text","text":"ビジネス指向のセキュリティ"},
+		{"id":"4c7b298bb131e066","x":-80,"y":-205,"width":427,"height":245,"type":"text","text":"- 経営の一員としてのCISO\n- 情報系+基幹系（ビジネス）\n- 経営戦略に基づいた計画\n- 適切な方針、技術、遵守の実装と運用\n- 緊急対応（CSIRT）の備え\n- 社内外の監査"},
+		{"id":"2c40bad2a5ebf0d1","x":258,"y":-166,"width":250,"height":60,"type":"text","text":"収益への貢献"},
+		{"id":"b173cdf202fead1e","x":-20,"y":200,"width":250,"height":60,"type":"text","text":"完全な防御は不可能と考える侵入を前提とした対策"},
+		{"id":"c973ef84656c8dbb","x":290,"y":182,"width":250,"height":60,"type":"text","text":"特別損失の防止"},
+		{"id":"7d0f8b5820c60920","x":-174,"y":295,"width":250,"height":60,"type":"text","text":"- Cybersecurity Framework\n- CIS Control\n\nAPT"}
+	],
+	"edges":[
+		{"id":"1dd4d3c4bbef47a6","fromNode":"fff4b8ca201b4ad8","fromSide":"bottom","toNode":"4c7b298bb131e066","toSide":"top"}
+	]
+}
