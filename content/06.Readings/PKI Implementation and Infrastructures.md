@@ -29,4 +29,27 @@ tags:
 
 ## What happens when certificate expire
 
-## Ho
+## How do we ensure that certificate do not expire
+
+## How does the human interaction work
+
+## Can we organise everything ourselves
+
+## How long does it take to implement  a proper PKI
+
+## What skills are required for operational personnel
+
+## How do we embed a PKI culture in the workplace
+
+## How do we keep it working as we grow
+
+## What happens if we acquire companies
+
+## Who should be responsible for it all
+
+## PKI, the cloud and the IoT
+
+## PKI and the global financial industry
+
+## PKI and government legislation
+
