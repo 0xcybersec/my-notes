@@ -7,6 +7,8 @@ Publish: "2023"
 tags:
   - PKI
 ---
+mainframe computer大型机，在银行系统中还存在，如IBM提供的，数据存储在磁带中或是硬盘里。
+
 ## What exactly is a PKI
 
 ## How does PKI work
