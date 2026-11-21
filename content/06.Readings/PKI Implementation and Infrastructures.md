@@ -14,7 +14,10 @@ Individuals at director level, no longer know what they are doing.
 
 在1970年代，保存在磁带里的数据也需要加密，IBM发明了Data Encryption Standard(DES)，然后用了许多年，直到1997年被攻破。它有许多版本，比如triple DES增强了安全性。加密系统的基本操作是替换字符，算法越复杂，seed种子越强，则效果越好。
 最开始加密系统的对称的，即加密和解密是一套密钥。
-P19
+密码本会设计得很复杂并且有多重嵌套。虽然计算机将这一过程提速了，但原理不变。
+在1976年，Diffie和Martin Hellman定义了另一种加密方式，被称之为Diffie Hellman key exchange，使用非对称加密。之前加密算法强度很重要，在非对称加密中，私钥很重要。
+这就是PKI的基础。加密算法是AES，即Advanced Encryption Standard，它支持128，192和256比特
+P20
 ## How does PKI work
 
 ## What are the primary applications for a PKI
