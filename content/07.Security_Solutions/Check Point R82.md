@@ -31,3 +31,4 @@ Logs的默认时长选择有以下几种:
 - All Time
 - Custom
 
+90分钟之后DemoID就失效了，下次再想体验就需要选择Start a new demo
