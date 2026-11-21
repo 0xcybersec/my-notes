@@ -8,8 +8,10 @@ tags:
   - PKI
 ---
 mainframe computer大型机，在银行系统中还存在，如IBM提供的，数据存储在磁带中或是硬盘里。
-
+用户开始转向Outsourcing因为许多IT的东西他们理解不了，只能交给专业的人去做。
+Individuals at director level, no longer know what they are doing.
 ## What exactly is a PKI
+
 
 ## How does PKI work
 
