@@ -12,7 +12,8 @@ mainframe computer大型机，在银行系统中还存在，如IBM提供的，�
 Individuals at director level, no longer know what they are doing.
 ## What exactly is a PKI
 
-
+在1970年代，保存在磁带里的数据也需要加密，IBM发明了Data Encryption Standard(DES)，然后用了许多年，直到1997年被攻破。它有许多版本，比如triple DES增强了安全性。加密系统的基本操作是替换字符，算法越复杂，seed种子越强，则效果越好。
+最开始加密系统的对称的，即加密和解密是一套密钥。
 ## How does PKI work
 
 ## What are the primary applications for a PKI
