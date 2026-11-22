@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: 视图
+    filters:
+      and:
+        - file.hasTag("CISSP")
+        - file.basename.contains("CISSP")
+    image: note.Cover
