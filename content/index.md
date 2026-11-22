@@ -26,7 +26,7 @@ description: 网络安全专家的成长笔记
 - 还有就是把手上已经有的实体书整理一下到Base视图中
 
 可以从这里访问base视图
-[[Readings.base]]
+[[BookMemo.base]]
 Base的卡片视图好像显示不了图片,暂时先关注笔记内容,有时间再解决这个问题.
 
 待办事项我放在[[TODO]]中
