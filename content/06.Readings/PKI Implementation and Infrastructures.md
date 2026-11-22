@@ -20,6 +20,13 @@ Individuals at director level, no longer know what they are doing.
 P20
 ## How does PKI work
 
+> [!note] any human-to-human communication via computers and any machine-to-machine communication via computers is vulnerable.
+
+
+
+
+
+
 ## What are the primary applications for a PKI
 
 ## What exactly is a digital certificate
