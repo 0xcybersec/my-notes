@@ -4,4 +4,5 @@ views:
     filters:
       and:
         - file.inFolder("content/06.Readings")
+        - "!Cover.isEmpty()"
     image: note.Cover
