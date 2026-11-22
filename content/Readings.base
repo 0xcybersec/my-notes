@@ -5,4 +5,5 @@ views:
       and:
         - file.inFolder("content/06.Readings")
         - "!Cover.isEmpty()"
+        - file.tags.contains("cissp")
     image: note.Cover
