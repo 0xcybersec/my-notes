@@ -9,4 +9,3 @@ tags:
   - CCSP
   - CISSP
 ---
-![[Business Continuity and Disaster Recovery Planning for IT Professionals.png]]
