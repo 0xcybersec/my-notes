@@ -1,0 +1,12 @@
+views:
+  - type: cards
+    name: CISSP_Related
+    filters:
+      and:
+        - file.hasTag("CISSP")
+    image: note.Cover
+  - type: cards
+    name: Pinned
+    filters:
+      and:
+        - file.inFolder("content/06.Readings")
