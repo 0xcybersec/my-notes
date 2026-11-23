@@ -7,4 +7,5 @@ Publish: "2025"
 tags:
   - IoT
   - OT
+  - Pin
 ---

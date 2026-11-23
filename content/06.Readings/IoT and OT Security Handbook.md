@@ -7,4 +7,5 @@ Publish: 2023-03
 tags:
   - IoT
   - OT
+  - Pin
 ---

@@ -1,9 +1,0 @@
-views:
-  - type: cards
-    name: 视图
-    filters:
-      and:
-        - file.inFolder("content/06.Readings")
-        - "!Cover.isEmpty()"
-        - file.tags.contains("cissp")
-    image: note.Cover

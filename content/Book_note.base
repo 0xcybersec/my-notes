@@ -10,3 +10,5 @@ views:
     filters:
       and:
         - file.inFolder("content/06.Readings")
+        - file.tags.contains("Pin")
+    image: note.Cover
