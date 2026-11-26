@@ -103,3 +103,6 @@ AI系の委託について
 • 学習データとして使われると目的外利用+第三者提供となる
 
 SCS評価制度
+[要求事項・評価基準 | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/security/scs/requirements-criteria.html)
+
+![[Pasted image 20261126235259.png]]
