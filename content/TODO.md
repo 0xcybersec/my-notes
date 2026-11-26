@@ -4,3 +4,4 @@
 [セキュリティ知識分野（SecBoK）人材スキルマップ2025年版](https://www.jnsa.org/result/skillmap/)
 NICE的日本本地化版可以参考这个SecBOK
 ![[02_SecBoK2025.xlsx]]
+
